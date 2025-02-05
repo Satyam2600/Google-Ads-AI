@@ -3,7 +3,9 @@ AI Chatbot for generating AI based Google Ads campaigns
 # AI-Powered Google Ads Campaign Generator 🤖🎯
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 [![Node.js CI](https://github.com/yourusername/google-ads-chatbot/actions/workflows/node.js.yml/badge.svg)](https://github.com/yourusername/google-ads-chatbot/actions)
+
 [![DeepSeek AI](https://img.shields.io/badge/Powered%20by-DeepSeek%20AI-important)](https://huggingface.co/deepseek-ai)
 
 An intelligent chatbot that automates Google Ads campaign creation using AI. Built with React, Node.js, and DeepSeek LLM.
